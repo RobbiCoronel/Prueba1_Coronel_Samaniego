@@ -1,0 +1,7 @@
+body{
+    background-image: url("../imagenfondo.jpeg");
+}
+
+div.ind-centrar {
+    margin: 100px auto 10px auto;
+   }
