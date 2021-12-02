@@ -16,11 +16,11 @@
         <div class="container-fluid">
           <p class="card-text justificado">
           Bienvenido a esta pagina donde podras ingresar los datos del mantenimineto de tu vehiculo.
-          Donde podras agregar los datos segun el mantimiento hecho a tu vehiculo.
+
           </p>
           <p>
-            Al dar click en el boton de Instalacion se creara automaticamente la tabla en el repositiorio de MySql
-            Y dentro del apartado Aplicacion se podra agrgar mas elementos a la tabla con un formulario
+            Al dar click en el boton de Instalacion se creara automaticamente la tabla en la base datos de MySql
+            Y dentro del apartado Aplicacion se podra agregar mas elementos a la tabla con un formulario
           </p>  
           <p>El codigo de esta pagina se podra encontrar en el siguinte link
           <a href="https://github.com/RobbiCoronel/Prueba1_Coronel_Samaniego">Link a GitHub</a>
